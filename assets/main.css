@@ -4,6 +4,7 @@ h1{
   font-family: 'open sans', sans-serif;
   color:#81E8FF;
   background: #105256;
+  margin:20px;
 }
 body{
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1f/Chora_village_in_Schinoussa_Island.jpg');
@@ -15,4 +16,6 @@ p{
   font-family: 'open sans', sans-serif;
   color: #093436;
   background: rgba(129, 232, 255, 0.70);
+  border-radius: 10%;
+  margin: 20px;
 }
